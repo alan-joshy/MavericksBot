@@ -1,0 +1,30 @@
+{
+  "name": "unfold23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@spheron/storage": "^2.0.3",
+    "abort-controller": "^3.0.0",
+    "aes-js": "^4.0.0-beta.5",
+    "debug": "^4.3.4",
+    "ethers": "^6.8.0",
+    "event-target-shim": "^5.0.1",
+    "grammy": "^1.19.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.7.0",
+    "prisma": "^5.4.2",
+    "sqlite3": "^5.1.6",
+    "tr46": "^0.0.3",
+    "tslib": "^2.4.0",
+    "web3": "^4.2.0",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
